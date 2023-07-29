@@ -1,8 +1,8 @@
 # Proyecto2-Femcoders
 
 <h3>English:</h3>
-<h4>This is the second project that I carry out from the FemCoders Norte de Factoría 5 bootcamp.</h4>
-<h4>This website is designed for a mobile company. It has been created from a mockup made up of a series of images provided by the client.</h4>
+<h3>This is the second project that I carry out from the FemCoders Norte de Factoría 5 bootcamp.</h3>
+<h3>This website is designed for a mobile company. It has been created from a mockup made up of a series of images provided by the client.</h3>
 
 <p>It is a previous design, and there are still features that are planned to be added in the following breafings, for example, the browser section named as "Features" and the "Extras" dropdown menu</p>
 <p>In addition, of all the buttons that are seen on the web page, only those called "Download" redirect to another site. By pressing these buttons, you are redirected to the F5 landing page.</p>
@@ -11,7 +11,7 @@
 <p>The intention is that when clicked, they redirect to the social networks of the contracting company.</p>
 <p>This is our first briefing and its intention is to show a preliminary sketch of the design.</p
 
-<h4>We will start then with the active functions of the page:</h4>
+<h3>We will start then with the active functions of the page:</h3>
 <h4>Browser:</h4>
 <ul>
   <li>The browser is fixed, so you can see it when scrolling.</li>

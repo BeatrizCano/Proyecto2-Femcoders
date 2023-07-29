@@ -9,10 +9,10 @@
 <p>The intention is to create the rest of the sections and gradually add the internal links, to complete the functionality of the requested web page.</p>
 <p>Also, in the browser, we will turn the vertical menu of the mobile version into a hamburger menu. Finally, we will add links to the contact icons in the footer section.</p>
 <p>The intention is that when clicked, they redirect to the social networks of the contracting company.</p>
-<p>>This is our first briefing and its intention is to show a preliminary sketch of the design.</p
+<p>This is our first briefing and its intention is to show a preliminary sketch of the design.</p
 
 <h4>We will start then with the active functions of the page:</h4>
-<h5>>Browser:</h5>
+<h4>Browser:</h4>
 <ul>
   <li>The browser is fixed, so you can see it when scrolling.</li>
   <li>Logo: carries a link to the internal "Description" section so you can return to the top of the page from any point on it.</li>
@@ -20,7 +20,7 @@
   <li>The "Download" button, as previously mentioned, leads to the Factory 5 landing page. In addition, it has a hover effect of brightness created with a box-shadow. The color of the shadow is the same tone as the button.</li>
 </ul>
 
-<h5>"Description":</h5>
+<h4>"Description":</h4>
 <p>The icons in this section have an effect that starts when the page loads.</p>
 <p>The effect is that the icons appear as reflected in a mirror and that they rotate showing the text from left to right.</p>
 <p>To see the effect again, you have to refresh the page.</p>

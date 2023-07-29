@@ -1,27 +1,31 @@
 # Proyecto2-Femcoders
 
-English:
-This is the second project that I carry out from the FemCoders Norte de Factoría 5 bootcamp.
-This website is designed for a mobile company. It has been created from a mockup made up of a series of images provided by the client.
+<h3>English:</h3>
+<h4>This is the second project that I carry out from the FemCoders Norte de Factoría 5 bootcamp.</h4>
+<h4>This website is designed for a mobile company. It has been created from a mockup made up of a series of images provided by the client.</h4>
 
-It is a previous design, and there are still features that are planned to be added in the following breafings, for example, the browser section named as "Features" and the "Extras" dropdown menu.
-In addition, of all the buttons that are seen on the web page, only those called "Download" redirect to another site. By pressing these buttons, you are redirected to the F5 landing page.
-The intention is to create the rest of the sections and gradually add the internal links, to complete the functionality of the requested web page.
-Also, in the browser, we will turn the vertical menu of the mobile version into a hamburger menu. Finally, we will add links to the contact icons in the footer section. The intention is that when clicked, they redirect to the social networks of the contracting company.
-This is our first briefing and its intention is to show a preliminary sketch of the design.
+<p>It is a previous design, and there are still features that are planned to be added in the following breafings, for example, the browser section named as "Features" and the "Extras" dropdown menu</p>
+<p>In addition, of all the buttons that are seen on the web page, only those called "Download" redirect to another site. By pressing these buttons, you are redirected to the F5 landing page.</p>
+<p>The intention is to create the rest of the sections and gradually add the internal links, to complete the functionality of the requested web page.</p>
+<p>Also, in the browser, we will turn the vertical menu of the mobile version into a hamburger menu. Finally, we will add links to the contact icons in the footer section.</p>
+<p>The intention is that when clicked, they redirect to the social networks of the contracting company.</p>
+<p>>This is our first briefing and its intention is to show a preliminary sketch of the design.</p
 
-We will start then with the active functions of the page:
-Browser:
--The browser is fixed, so you can see it when scrolling.
--Logo: carries a link to the internal "Description" section so you can return to the top of the page from any point on it.
--The "Description" and "Screen" options of the browser lead to the section with the same name within the page.
--The "Download" button, as previously mentioned, leads to the Factory 5 landing page. In addition, it has a hover effect of brightness created with a box-shadow. The color of the shadow is the same tone as the button.
+<h4>We will start then with the active functions of the page:</h4>
+<h5>>Browser:</h5>
+<ul>
+  <li>The browser is fixed, so you can see it when scrolling.</li>
+  <li>Logo: carries a link to the internal "Description" section so you can return to the top of the page from any point on it.</li>
+  <li>The "Description" and "Screen" options of the browser lead to the section with the same name within the page.</li>
+  <li>The "Download" button, as previously mentioned, leads to the Factory 5 landing page. In addition, it has a hover effect of brightness created with a box-shadow. The color of the shadow is the same tone as the button.</li>
+</ul>
 
-"Description":
--The icons in this section have an effect that starts when the page loads. The effect is that the icons appear as reflected in a mirror and that they rotate showing the text from left to right.
-To see the effect again, you have to refresh the page.
+<h5>"Description":</h5>
+<p>The icons in this section have an effect that starts when the page loads.</p>
+<p>The effect is that the icons appear as reflected in a mirror and that they rotate showing the text from left to right.</p>
+<p>To see the effect again, you have to refresh the page.</p>
+<p>This would be a summary of the main functionalities of the landing page.</p>
 
-This would be a summary of the main functionalities of the landing page.
 
 Español:
 
